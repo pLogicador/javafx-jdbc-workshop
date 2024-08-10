@@ -61,7 +61,7 @@ public class MainViewController implements Initializable {
 			mainVBox.getChildren().addAll(newVBox.getChildren());
 			
 		} catch (IOException e) {
-			Alerts.showAlert("IOException", "Error loading view", e.getMessage(), AlertType.ERROR);
+			Alerts.showAlert("IOException", "Error loading view", e.getMessage(), AlertType.ERROR);	
 		}
 		
 	}
