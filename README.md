@@ -8,10 +8,14 @@ juntamente com a integração de banco de dados via JDBC.
 
 
 ## Layout da Aplicação
-![layout](https://github.com/user-attachments/assets/cd61fdda-6b2c-4732-9f62-884f33c95924)
+
+<img src="https://github.com/user-attachments/assets/cd61fdda-6b2c-4732-9f62-884f33c95924" alt="layout" width="300"/>
+
 
 ## Cadastro de Departamentos e Vendedores
-![demo1](https://github.com/user-attachments/assets/88c5d795-1bb1-43ee-ade5-95f6918ec4c7) ![demo2](https://github.com/user-attachments/assets/c75925b5-fef1-4b33-a7d3-dd5767f794fa)
+<img src="https://github.com/user-attachments/assets/88c5d795-1bb1-43ee-ade5-95f6918ec4c7" alt="demo1" width="300"/>
+<img src="https://github.com/user-attachments/assets/c75925b5-fef1-4b33-a7d3-dd5767f794fa" alt="demo2" width="300"/>
+
 
 
 # Tecnologias utilizadas
