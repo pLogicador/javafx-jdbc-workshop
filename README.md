@@ -1,5 +1,5 @@
 # JavaFX com JDBC
-
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/pLogicador/javafx-jdbc-workshop/blob/main/LICENSE) 
 
 # Sobre o projeto
 
@@ -27,8 +27,8 @@ juntamente com a integração de banco de dados via JDBC.
 
 ## Passos para compilar e executar
 
-### 1. Compilar e gerar o JAR
-Checklist para criar o JAR:
+<details>
+  <summary><strong>1. Compilar e gerar o JAR</strong></summary>
 
 * Gerar o arquivo JAR:
 1. Clique com o botão direito no nome do projeto no IDE.
@@ -45,7 +45,9 @@ Checklist para criar o JAR:
 4. Inclua o `JavaFX SDK`.
 5. Inclua o `Java JDK`.
 
-### 2. Instalação e configuração do ambiente
+</details>
+<details>
+  <summary><strong>2. Instalação e configuração do ambiente</strong></summary>
 
 * Instalar o Java:
 1. Faça o download e instale a JDK no link: [Oracle Java Downloads](https://www.oracle.com/java/technologies/downloads/?er=221886).
@@ -58,16 +60,25 @@ Checklist para criar o JAR:
 * Copiar JAR e db.properties:
 5. Copie o arquivo JAR e o arquivo `db.properties` para a pasta de destino onde você deseja executar a aplicação.
 
-### 3. Executar a aplicação via terminal
+</details>
+<details>
+  <summary><strong>3. Executar a aplicação</strong></summary>
+ 
 ```bash
 java --module-path %PATH_TO_FX% --add-modules javafx.controls,javafx.fxml -cp myapp.jar application.Main
 
 ```
-### 4. (Opcional) Criar um arquivo BAT para execução
+</details>
+<details>
+  <summary><strong>4. (Opcional) Criar um arquivo BAT para execução</strong></summary>
+ 
 ```bash
 java --module-path %PATH_TO_FX% --add-modules javafx.controls,javafx.fxml -cp myapp.jar application.Main
 ```
-### 5. (Opcional) Criar um atalho no Windows
+</details>
+<details>
+  <summary><strong>5. (Opcional) Criar um atalho no Windows</strong></summary>
+
 ```bash
 # No campo "Target" do atalho, use:
 "C:\Program Files\Java\jdk-17.0.3\bin\java.exe" --module-path %PATH_TO_FX% --add-modules javafx.controls,javafx.fxml -cp myapp.jar application.Main
@@ -75,7 +86,7 @@ java --module-path %PATH_TO_FX% --add-modules javafx.controls,javafx.fxml -cp my
 # No campo "Start in", insira o caminho da pasta onde está o aplicativo:
 C:\appfolder
 ```
-
+</details>
 
 # Autor
 
