@@ -17,7 +17,6 @@ juntamente com a integração de banco de dados via JDBC.
 <img src="https://github.com/user-attachments/assets/c75925b5-fef1-4b33-a7d3-dd5767f794fa" alt="demo2" width="300"/>
 
 
-
 # Tecnologias utilizadas
 ## Back end
 - JavaFX
@@ -25,9 +24,7 @@ juntamente com a integração de banco de dados via JDBC.
 
 # Como executar o projeto
 
-## Pré-requisitos 
-* Java 11
-* MySQL
+## Pré-requisitos: Java 11, MySQL
 
 ## Passos para compilar e executar
 
