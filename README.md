@@ -2,13 +2,11 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/pLogicador/javafx-jdbc-workshop/blob/main/LICENSE) 
 
 # Sobre o projeto
-
 Este projeto é uma aplicação JavaFX conectada a um banco de dados MySQL utilizando JDBC. Foi desenvolvido para introduzir os conceitos de desenvolvimento de aplicações desktop com JavaFX, 
 juntamente com a integração de banco de dados via JDBC.
 
 
 ## Layout da Aplicação
-
 <img src="https://github.com/user-attachments/assets/cd61fdda-6b2c-4732-9f62-884f33c95924" alt="layout" width="300"/>
 
 
